@@ -1,3 +1,6 @@
+<img src="dndclient64_260424_200240-11777073067471.gif" width="33%">
+
+
 PT-BR / EN - ENGLISH VERSION BELOW
 -
 
