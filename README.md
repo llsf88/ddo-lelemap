@@ -45,6 +45,7 @@ se quiser usar versões editadas de mapas, salve o arquivo de imagem com "_edit"
 **Botão do meio + drag -** move a câmera manualmente.  
 **Clique direito no Mini Map -** abre o menu contextual.  
 **Hover -** mostra tooltip da entidade/ícone.  
+  
 ---  
 
 ## **ENGLISH VERSION**
